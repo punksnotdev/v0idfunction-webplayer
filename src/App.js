@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 
-import './App.css';
+import './styles/App.scss';
 
 import { Route, Link } from 'react-router-dom';
 
