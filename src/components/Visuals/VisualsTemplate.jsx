@@ -2,12 +2,16 @@ import React from 'react';
 
 import styles from './Visuals.scss';
 
+import Text from './elements/Text/Text'
+
 const VisualsTemplate = () => (
 
     <section className="Visuals">
-        <h1>
-            Visuals Templaate!!!!
-        </h1>
+        
+
+        <Text/>
+
+
     </section>
 
 )
